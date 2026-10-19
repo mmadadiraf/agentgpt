@@ -1,0 +1,5 @@
+order_id,created_at,order_status,payment_status,stock_status,fulfillment_status,delivery_status,item_total,delivery_fee,estimated_item_margin,last_updated_at,issue_note
+SYN-1001,2026-10-19T09:00:00+07:00,received,unconfirmed,unknown,pending,not_started,125000,12000,15000,2026-10-19T09:05:00+07:00,SYNTHETIC EXAMPLE ONLY
+SYN-1002,2026-10-18T08:00:00+07:00,received,paid,available,packed,scheduled,80000,10000,9000,2026-10-18T08:30:00+07:00,SYNTHETIC EXAMPLE ONLY
+SYN-1003,2026-10-19T10:00:00+07:00,received,,available,pending,not_started,45000,10000,5000,2026-10-19T10:02:00+07:00,SYNTHETIC EXAMPLE ONLY
+SYN-1003,2026-10-19T10:01:00+07:00,received,unconfirmed,unknown,pending,not_started,45000,10000,5000,2026-10-19T10:03:00+07:00,SYNTHETIC EXAMPLE ONLY
