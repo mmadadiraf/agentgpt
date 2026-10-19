@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.json
+!report.example.json
+.pytest_cache/
+.coverage
